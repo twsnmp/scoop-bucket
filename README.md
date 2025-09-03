@@ -2,9 +2,6 @@
 
 [![Tests](https://github.com/twsnmp/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/twsnmp/scoop-bucket/actions/workflows/ci.yml)
 
-<!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
-
 
 This is the [twsnmp](https://github.com/twsnmp "TWSNMP") binaries' bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
@@ -19,5 +16,8 @@ scoop install <manifest>
 Repositories（リポジトリ）
 ------------
 
-- [twsnmpfc](https://github.com/twsnmp/twsnmpfc "twsnmp/twsnmpfc: TWSNMP FC") - Network Management tool
+- [twsnmpfc](https://github.com/twsnmp/twsnmpfc "twsnmp/twsnmpfc: TWSNMP FC") - SNMP Manager for docker
 - [TWLogAIAN](https://github.com/twsnmp/TWLogAIAN "twsnmp/TWLogAIAN: TWSNMP FC") - AI Assist Log Analysis Tool
+- [TWLogAIAN](https://github.com/twsnmp/twsnmpfk "twsnmp/twsnmpfk: TWSNMP FK") - SNMP Manager for desktop
+- [TWLogAIAN](https://github.com/twsnmp/twsla "twsnmp/twsla: TWSLA") - CLI Log Analysis Tool
+- [TWLogAIAN](https://github.com/twsnmp/twlogeye "twsnmp/twlogeye: TwLogEye") - AI-Navie log server
